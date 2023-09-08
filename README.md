@@ -35,15 +35,3 @@ To use this project, you would typically perform the following steps:
 3. Execute the FPGA design, which will apply the Sobel edge detection algorithm to the input image.
 
 4. Retrieve the processed image or visualize the results as needed.
-
-## Project Team
-
-This project is created and maintained by Team 05 for a specific phase or group project. Please refer to the project team's documentation or contact them directly for more information about the project's goals, progress, and specific details.
-
-## License
-
-The licensing details for this project are not provided in this README. Please check the project files or contact the project team for information regarding the project's licensing terms.
-
-## Additional Information
-
-For more detailed instructions, code explanations, and FPGA setup details, please refer to the specific files within the project directory, and consult the project team for any additional documentation or support.
